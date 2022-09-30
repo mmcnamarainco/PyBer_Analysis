@@ -43,4 +43,6 @@ The analysis of the data shows that:
 
 The single largest takeaway from this analysis is that Pyber needs to recruit more rural drivers. Not only do rural drivers drive more miles per trip, thus reducing transactional costs, but the opportunty for growth is greatest in rural markests due to the cronicly poor roll-out of new services to these areas. Being first-to-market in these areas is doubly important given the difficulty of convincing the inhently conservative and increasingly aged rural populations to try new services. 
 
+Given the timing of the rural usage spikes, advertising tie-ins during professional football playoff games may really pay off.
+
 
